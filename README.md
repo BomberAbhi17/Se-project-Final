@@ -1,4 +1,4 @@
-###Inventory Management With focus on Sports Complex of IITJ
+#Inventory Management With focus on Sports Complex of IITJ
 
 This software system is designed to increase the efficiency and performance of the administration for proper allocation and management of the sports items in Sports Complex,Hostels and all other possible inventories. This software can be used by any institute to manage items in there respective inventories, sports complexes and hostels.
 
